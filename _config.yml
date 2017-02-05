@@ -7,7 +7,7 @@
 
 # Site settings
 title: npugenji
-brief-intro: Front-end Dev Engineer
+brief-intro:  ACMer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://npugenji.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 本站记录我ACM之旅的沿途风景！
+description_footer: 
 
 # comments
 # two ways to comment, only choose one, and use your own short name
